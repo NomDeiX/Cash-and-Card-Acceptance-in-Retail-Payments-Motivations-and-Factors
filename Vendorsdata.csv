@@ -1,0 +1,209 @@
+﻿Column1;Timestamp;Name;Address;Postcode;Industry;Subindustry;Accepted_payment_methods;Most_used_method;Preferred_method
+E02003790;;The Three Hills;Bartlow Rd, Cambridge CB21 4PW, United Kingdom;CB21 4PW;Hospitality ;Bar ;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02004575;;East of England Co-op Food;Riverside Ave E, Manningtree CO11 1US, United Kingdom;CO11 1US;Consumer Goods;Supermarket;Debit Card, Credit Card;Debit Card;Debit Card
+E02006504;;Blue Bell Cider House;Warings Green Rd, Earlswood, Solihull B94 6BP, United Kingdom;B94 6BP;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Credit Card
+E02006766;;Kemerton Coffee House;High St, Tewkesbury GL20 7HP, United Kingdom;GL20 7HP;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Cash
+E02000978;;Tomtom Coffee House;114 Ebury St, London SW1W 9NZ, United Kingdom;SW1W 9NZ;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Contactless;Debit Card
+E02005969;;The Cross Keys;48 High St, Wallingford OX10 0DB, United Kingdom;OX10 0DB;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02003864;;Village Cafe;40 London Rd, Alderley Edge SK9 7DZ, United Kingdom;SK9 7DZ;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Credit Card;Debit Card
+E02004267;;The Square & Compass;Worth Matravers, Swanage BH19 3LF, United Kingdom;BH19 3LF;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Cash
+E02005622;;The Pytchley Inn;23 High St, West Haddon, Northampton NN6 7AP, United Kingdom;NN6 7AP;Hospitality ;Pub;Debit Card, Credit Card;Contactless;Debit Card
+E02003982;;Abbey Mill Coffee Shop;Abbey Approach, Barrow-in-Furness LA13 0PJ, United Kingdom;LA13 0PJ;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02003725;;Hot Numbers - Trumpington St Cafe;4 Trumpington St, Cambridge CB2 1QA, United Kingdom;CB2 1QA;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Contactless;Cash
+E02004027;;The Pig and Whistle;Cartmel, Grange-over-Sands LA11 6PL, United Kingdom;LA11 6PL;Hospitality ;Pub;Cash;Cash;Cash
+E02005374;;Aldwinckles Coffee House;Aldwinckles Coffee House, 8C Church St, Market Harborough LE16 7AA, United Kingdom;LE16 7AA;Hospitality ;Coffee Related;Cash;Cash;Cash
+E02006760;;National Trust - The Fleece Inn;The Cross, Bretforton, Evesham WR11 7JE, United Kingdom;WR11 7JE;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02003687;;The Three Oaks;Austenwood Ln, Chalfont St Peter, Gerrards Cross SL9 8NL, United Kingdom;SL9 8NL;Hospitality ;Pub;Debit Card, Credit Card;Debit Card;Debit Card
+E02006525;;Fizzy Moon Brewhouse & Grill;35 Regent St, Leamington Spa CV32 5EE, United Kingdom;CV32 5EE;Hospitality ;Pub;Debit Card, Credit Card;Debit Card;Cash
+E02003482;;The George;1 Watling St, Little Brickhill, Milton Keynes MK17 9LZ, United Kingdom;MK17 9LZ;Hospitality ;Pub;Debit Card, Credit Card;Debit Card;Cash
+E02005628;;The Countryman;Daventry Rd, Staverton, Daventry NN11 6JH, United Kingdom;NN11 6JH;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02005947;;Freud Cafe Bar;119 Walton St, Oxford OX2 6AH, United Kingdom;OX2 6AH;Hospitality ;Bar ;Debit Card, Credit Card;Contactless;Cash
+E02005947;;Queen's Lane Coffee House;40 High St, Oxford OX1 4AP, United Kingdom;OX1 4AP;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Credit Card;Debit Card
+E02005947;;Brew;75B Banbury Rd, Park Town, Oxford OX2 6PE, United Kingdom;OX2 6PE;Hospitality ;Coffee Related;Debit Card, Credit Card;Contactless;Debit Card
+E02005947;;The Grand Café;84 High St, Oxford OX1 4BG, United Kingdom;OX1 4BG;Hospitality ;Coffee Related;Debit Card, Credit Card;Contactless;Cash
+E02005947;;No.1 Ship Street;1 Ship St, Oxford OX1 3DA, United Kingdom;OX1 3DA;Hospitality ;Restaurant (Dine-in);Cash, Debit Card, Credit Card;Credit Card;Debit Card
+E02006204;;The Winking Man;Buxton Road, Upper Hulme, Leek ST13 8UH, United Kingdom;ST13 8UH;Hospitality ;Pub;Debit Card, Credit Card;Debit Card;Debit Card
+E02005272;;Corto;36 King St, Clitheroe BB7 2EU, United Kingdom;BB7 2EU;Hospitality ;Bar ;Debit Card, Credit Card;Debit Card;Debit Card
+E02002408;;Bean & Gone Espresso Bar;27 Lidget Hill, Pudsey LS28 7LG, United Kingdom;LS28 7LG;Hospitality ;Coffee Related;Debit Card, Credit Card;Debit Card;Debit Card
+E02004608;;The Clarence Social;1 Clarence Parade, Cheltenham GL50 3NY, United Kingdom;GL50 3NY;Hospitality ;Bar ;Cash, Debit Card, Credit Card;Debit Card;Cash
+E02000970;;Workshop Coffee;1 Barrett St, London W1U 1AX, United Kingdom;W1U 1AX;Hospitality ;Coffee Related;Debit Card, Credit Card;Credit Card;Cash
+E02000970;;The Monocle Café;18 Chiltern St, London W1U 7QA, United Kingdom;W1U 7QA;Hospitality ;Coffee Related;Debit Card, Credit Card;Debit Card;Cash
+E02000970;;Le Gavroche;43 Upper Brook St, London W1K 7QR, United Kingdom;W1K 7QR;Hospitality ;Restaurant (Dine-in);Debit Card, Credit Card;Credit Card;Debit Card
+E02000970;;Trishna;15-17 Blandford St, London W1U 3DG, United Kingdom;W1U 3DG;Hospitality ;Restaurant (Both Dine-in and Takeaway);Cash, Debit Card, Credit Card;Credit Card;Debit Card
+E02006372;;The Gin Kitchen - Distillery & Cocktail Bar In Surrey;Punchbowl Ln, Dorking RH5 4DX, United Kingdom;RH5 4DX;Hospitality ;Bar ;Cash, Debit Card, Credit Card;Debit Card;Cash
+E02005950;;La Cucina;40 St Clement's St, Oxford OX4 1AB, United Kingdom;OX4 1AB;Hospitality ;Restaurant (Dine-in and Takeaway);Debit Card, Credit Card;Contactless;Debit Card
+E02002244;;HOLDSWORTH HOUSE • HOTEL & RESTAURANT;Holdsworth House, Holdsworth Rd, Holdsworth, Halifax HX2 9TG, United Kingdom;HX2 9TG;Hospitality ;Hotel;Cash, Debit Card, Credit Card;Debit Card;Credit Card
+E02006033;;The Shrewsbury Coffeehouse;5 Castle Gates, Shrewsbury SY1 2AE, United Kingdom;SY1 2AE;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02006033;;Caff? Mondi;Caffe Mondi, 16 Wyle Cop, Shrewsbury SY1 1XB, United Kingdom;SY1 1XB;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02006033;;Iron & Fire Coffee Shop in Shrewsbury;Station Approach, Shrewsbury SY1 2AA, United Kingdom;SY1 2AA;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Cash
+E02006033;;Peaberry Grand Cafe;Milk St, Shrewsbury SY1 1SZ, United Kingdom;SY1 1SZ;Hospitality ;Coffee Related;Cash;Cash;Cash
+E02000586;;Launceston Place;1A Launceston Pl, London W8 5RL, United Kingdom;W8 5RL;Hospitality ;Restaurant (Dine-in);Debit Card, Credit Card;Credit Card;Credit Card
+E02006790;;Chez Vous Restaurant;432 Limpsfield Rd, Warlingham CR6 9LA, United Kingdom;CR6 9LA;Hospitality ;Restaurant (Dine-in);Cash, Debit Card, Credit Card;Contactless;Debit Card
+E02006208;;Den Engel Belgian Bar and Restaurant;11 Stanley St, Leek ST13 5HG, United Kingdom;ST13 5HG;Hospitality ;Bar ;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02004397;;Kings Head;37 Mount St, Battle TN33 0EG, United Kingdom;TN33 0EG;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Cash
+E02005910;;?KENDE;22 Gordon Rd, West Bridgford, Nottingham NG2 5LN, United Kingdom;NG2 5LN;Hospitality ;Coffee Related;Debit Card, Credit Card;Debit Card;Debit Card
+E02006719;;The Nag's Head;19-21 Bank St, Malvern WR14 2JG, United Kingdom;WR14 2JG;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000393;;Tinto Coffee;411 Fulham Palace Rd, London SW6 6SX, United Kingdom;SW6 6SX;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02003647;;Jacc's Coffee Shop;2, 3 Bull Pond Ln, Dunstable LU6 3AH, United Kingdom;LU6 3AH;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02006912;;Takk;6 Tariff St, Manchester M1 2FF, United Kingdom;M1 2FF;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Credit Card
+E02006912;;Moose Coffee;8a Gateway House Station Approach Piccadilly Station, Manchester M1 2GH, United Kingdom;M1 2GH;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02006912;;easyHotel Manchester City Centre;33 Dale St, Manchester M1 2HF, United Kingdom;M1 2HF;Hospitality ;Hotel;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02006912;;Manchester Piccadilly Hotel;London Rd, Manchester M1 2PG, United Kingdom;M1 2PG;Hospitality ;Hotel;Cash, Debit Card, Credit Card;Credit Card;Debit Card
+E02000794;;England Rugby Store;Whitton Rd, Twickenham TW2 7RE, United Kingdom;TW2 7RE;Consumer Goods;Discount Store;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02003430;;Daniel Department Store;121-125 Peascod St, Windsor SL4 1DP, United Kingdom;SL4 1DP;Consumer Goods;Department store;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02006441;;Elphicks;10-13 West St, Farnham GU9 7DN, United Kingdom;GU9 7DN;Consumer Goods;Department store;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02006759;;Coffee & More;54 High St, Pershore WR10 1DP, United Kingdom;WR10 1DP;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Contactless;Debit Card
+E02005973;;The Square Henley;10 Market Pl, Henley-on-Thames RG9 2AH, United Kingdom;RG9 2AH;Hospitality ;Restaurant (Both Dine-in and Takeaway);Cash, Debit Card, Credit Card;Credit Card;Credit Card
+E02005973;;Facy;27-31 Market Pl, Henley-on-Thames RG9 2AA, United Kingdom;RG9 2AA;Consumer Goods;Department store;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000629;;Hopper Coffee House;Ground floor, shop, 6 Landor Rd, London SW9 9PP, United Kingdom;SW9 9PP;Hospitality ;Coffee Related;Debit Card, Credit Card;Debit Card;Cash
+E02004214;;Austins Department Store;6-8 Courtenay St, Newton Abbot TQ12 2DU, United Kingdom;TQ12 2DU;Consumer Goods;Department store;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02005621;;The Red Lion Inn;52 Main Rd, Crick, Northampton NN6 7TX, United Kingdom;NN6 7TX;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000981;;Grays of Westminster;40 Churton St, Lillington and Longmoore Gardens, London ;SW1V 2LP;Consumer Goods;Specialest Store;Debit Card, Credit Card;Debit Card;Cash
+E02000981;;Purgatory Bar;13 Cambridge St, Pimlico, London SW1V 4PR, United Kingdom;SW1V 4PR;Hospitality ;Bar ;Debit Card, Credit Card;Debit Card;Debit Card
+E02000356;;Cér?s;74 Green Lanes, Newington Green, London N16 9EJ, United Kingdom;N16 9EJ;Hospitality ;Restaurant (Dine-in);Cash, Debit Card, Credit Card;Credit Card;Credit Card
+E02001090;;Britannia Airport Hotel;Palatine Rd, Northenden, Wythenshawe, Manchester M22 4FH, United Kingdom;M22 4FH;Hospitality ;Hotel;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02002991;;Cortado Café;7 Bridge St, Bath BA2 4AS, United Kingdom;BA2 4AS;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02006032;;Tin Cup Coffee Ltd;Driving Range, Telford Wy., Shrewsbury SY2 5XQ, United Kingdom;SY2 5XQ;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02006706;;Coffee 2;74 High St, Bromsgrove B61 8EX, United Kingdom;B61 8EX;Hospitality ;Coffee Related;Debit Card, Credit Card;Debit Card;Debit Card
+E02003870;;The Castle;29 Church St, Macclesfield SK11 6LB, United Kingdom;SK11 6LB;Hospitality ;Bar ;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02003870;;The Thistle Coffee House;10 Park Grn, Macclesfield SK11 7NA, United Kingdom;SK11 7NA;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Cash
+E02005017;;Amedea;3 Oxford St, Whitstable CT5 1DB, United Kingdom;CT5 1DB;Hospitality ;Bar ;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000001;;London Silver Vaults;53-64 Chancery Ln, London , United Kingdom;WC2A 1QS;Consumer Goods;Specialest Store;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000001;;Savage Garden;Floor 12, 7 Pepys St, London EC3N 4AF, United Kingdom;EC3N 4AF;Hospitality ;Bar ;Cash, Debit Card, Credit Card;Contactless;Cash
+E02000001;;Rake’s Café Bar;40 Liverpool St, London EC2M 7QN, United Kingdom;EC2M 7QN;Hospitality ;Bar ;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000001;;Rosslyn Coffee Queen Victoria Street;78 Queen Victoria St, London EC4N 4SJ, United Kingdom;EC4N 4SJ;Hospitality ;Coffee Related;Debit Card, Credit Card;Debit Card;Cash
+E02000001;;Curators Coffee Studio;9A Cullum St, London EC3M 7JJ, United Kingdom;EC3M 7JJ;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000001;;Association Coffee;The Ace Bldg, 10-12 Creechurch Ln, London EC3A 5AY, United Kingdom;EC3A 5AY;Hospitality ;Coffee Related;Debit Card, Credit Card;Debit Card;Debit Card
+E02000001;;The Wren Coffee;St Nicholas Cole Abbey, 114 Queen Victoria St, London EC4V 4BJ, United Kingdom;EC4V 4BJ;Hospitality ;Coffee Related;Debit Card, Credit Card;Debit Card;Cash
+E02000001;;Alchemy Café - The City;8 Ludgate Broadway, London EC4V 6DX, United Kingdom;EC4V 6DX;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Contactless;Credit Card
+E02000001;;The Fleet Street Press;3 Fleet St, Temple, London EC4Y 1AU, United Kingdom;EC4Y 1AU;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000001;;Carter Lane Coffee House;50A Carter Ln, London EC4V 5EA, United Kingdom;EC4V 5EA;Hospitality ;Coffee Related;Debit Card, Credit Card;Debit Card;Debit Card
+E02000001;;Host Café;St Mary Aldermary, Watling St, London EC4M 9BW, United Kingdom;EC4M 9BW;Hospitality ;Coffee Related;Debit Card, Credit Card;Debit Card;Debit Card
+E02000001;;City Social;Tower 42, 25 Old Broad St, London EC2N 1HQ, United Kingdom;EC2N 1HQ;Hospitality ;Restaurant (Dine-in);Cash, Debit Card, Credit Card;Credit Card;Credit Card
+E02006157;;The Lichfield Tea Company;Unit 11a Heart of The Country Shopping Village Swinfen WS14 9QR, United Kingdom;WS14 9QR;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000977;;The Whisky Shop;169 Piccadilly, St. James's, London , United Kingdom;W1J 9EH;Consumer Goods;Specialest Store;Debit Card, Credit Card;Debit Card;Cash
+E02000977;;Gordon's Wine Bar;47 Villiers St, London WC2N 6NE, United Kingdom;WC2N 6NE;Hospitality ;Bar ;Debit Card, Credit Card;Debit Card;Debit Card
+E02000977;;Plume Wine Bar;26 Wellington St, London WC2E 7DD, United Kingdom;WC2E 7DD;Hospitality ;Bar ;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000977;;Waxy O'Connor's London;14-16 Rupert St, London W1D 6DD, United Kingdom;W1D 6DD;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000977;;The Harp, Covent Garden;47 Chandos Pl, London WC2N 4HS, United Kingdom;WC2N 4HS;Hospitality ;Pub;Debit Card, Credit Card;Debit Card;Debit Card
+E02000977;;The Lamb & Flag, Covent Garden;33 Rose St, London WC2E 9EB, United Kingdom;WC2E 9EB;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Cash
+E02000977;;The Blue Posts;28 Rupert St, London W1D 6DJ, United Kingdom;W1D 6DJ;Hospitality ;Pub;Debit Card, Credit Card;Debit Card;Debit Card
+E02000977;;Old Shades;37 Whitehall, London SW1A 2BX, United Kingdom;SW1A 2BX;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000977;;Tom Cribb;36 Panton St, London SW1Y 4EA, United Kingdom;SW1Y 4EA;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000977;;Oseyo Soho;73-75 Charing Cross Rd, London , United Kingdom;WC2H 0BF;Consumer Goods;Supermarket;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000977;;Coffee Island;5 Upper St Martin's Ln, London WC2H 9EA, United Kingdom;WC2H 9EA;Hospitality ;Coffee Related;Debit Card, Credit Card;Contactless;Debit Card
+E02000977;;Notes Coffee Roasters & Bar | Trafalgar Square;31 St Martin's Ln, London WC2N 4DD, United Kingdom;WC2N 4DD;Hospitality ;Coffee Related;Debit Card, Credit Card;Debit Card;Cash
+E02000977;;Spring;Lancaster Pl, London WC2R 1LA, United Kingdom;WC2R 1LA;Hospitality ;Restaurant (Dine-in);Cash, Debit Card, Credit Card;Debit Card;Credit Card
+E02000977;;Aquavit London;1 St James's Market, St. James's, London SW1Y 4QQ, United Kingdom;SW1Y 4QQ;Hospitality ;Restaurant (Both Dine-in and Takeaway);Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000977;;HIDE;85 Piccadilly, London W1J 7NB, United Kingdom;W1J 7NB;Hospitality ;Restaurant (Dine-in);Cash, Debit Card, Credit Card;Contactless;Debit Card
+E02000977;;Steak and Company - Leicester Square;Square, 3-5 Irving Street Leicester, London WC2H 0HA, United Kingdom;WC2H 0HA;Hospitality ;Restaurant (Dine-in);Cash, Debit Card, Credit Card;Debit Card;Cash
+E02000977;;Rules;34-35 Maiden Ln, London WC2E 7LB, United Kingdom;WC2E 7LB;Hospitality ;Restaurant (Dine-in);Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000977;;Great British Restaurant;36 Little St James's St, St. James's, London SW1A 1NS, United Kingdom;SW1A 1NS;Hospitality ;Restaurant (Dine-in);Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000977;;Angus Steakhouse Leicester Square;Square, 20 Cranbourn Street Leicester, London WC2H 7AD, United Kingdom;WC2H 7AD;Hospitality ;Restaurant (Dine-in);Cash, Debit Card, Credit Card;Credit Card;Credit Card
+E02000977;;Fallow;52 Haymarket, St. James's, London SW1Y 4RP, United Kingdom;SW1Y 4RP;Hospitality ;Restaurant (Dine-in);Cash, Debit Card, Credit Card;Credit Card;Cash
+E02000977;;Waxy's Little Sister;20 Wardour St, London W1D 6QG, United Kingdom;W1D 6QG;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02002125;;The Boathouse;Park Rd, Rushall, Walsall WS4 1LG, United Kingdom;WS4 1LG;Hospitality ;Pub;Debit Card, Credit Card;Debit Card;Debit Card
+E02000972;;MacCulloch & Wallis Ltd;25-26 Poland St, London , United Kingdom;W1F 8QN;Consumer Goods;Specialest Store;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000972;;Foyles;107 Charing Cross Rd, London , United Kingdom;WC2H 0DT;Consumer Goods;Specialest Store;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000972;;Phonica Records;51 Poland St, London , United Kingdom;W1F 7ND;Consumer Goods;Specialest Store;Cash, Debit Card, Credit Card;Debit Card;Cash
+E02000972;;The Lucky Pig Cocktail Bar;5 Clipstone St, London W1W 6BB, United Kingdom;W1W 6BB;Hospitality ;Bar ;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000972;;She Soho;23a Old Compton St, London W1D 5JL, United Kingdom;W1D 5JL;Hospitality ;Bar ;Cash, Debit Card, Credit Card;Contactless;Debit Card
+E02000972;;The Coach & Horses, Soho;29 Greek St, London W1D 5DH, United Kingdom;W1D 5DH;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000972;;The Lyric;37 Great Windmill St, London W1D 7LT, United Kingdom;W1D 7LT;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000972;;Attendant Coffee Roasters;27A Foley St, London W1W 6DY, United Kingdom;W1W 6DY;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000972;;Omotesando Koffee;8 Newman St, London W1T 1FB, United Kingdom;W1T 1FB;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000972;;Hideaway Coffee;7 Farrier's Psge, London W1D 7DP, United Kingdom;W1D 7DP;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Cash
+E02000972;;Kaffeine;66 Great Titchfield St., London W1W 7QJ, United Kingdom;W1W 7QJ;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Cash
+E02000972;;Algerian Coffee Stores;52 Old Compton St, London W1D 4QE, United Kingdom;W1D 4QE;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000972;;Alex Coffee;1 Hanson St, London W1W 6TA, United Kingdom;W1W 6TA;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000972;;Veeraswamy;Victory House, 99-101 Regent St., London W1B 4RS, United Kingdom;W1B 4RS;Hospitality ;Restaurant (Dine-in);Cash, Debit Card, Credit Card;Debit Card;Credit Card
+E02000391;;Naive;75 Parsons Green Ln, London SW6 4JA, United Kingdom;SW6 4JA;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000191;;Kafi;20 Cleveland St, London W1T 4JA, United Kingdom;W1T 4JA;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Contactless;Debit Card
+E02000191;;Mikel Coffee UK;93 Tottenham Ct Rd, London W1T 4TW, United Kingdom;W1T 4TW;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02005446;;Coffee Cats;12 The Strait, Lincoln LN2 1JD, United Kingdom;LN2 1JD;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Contactless;Cash
+E02000570;;The Hemingford Arms;158 Hemingford Rd, London N1 1DF, United Kingdom;N1 1DF;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02005674;;The Black Prince;15 Abington Square, Northampton NN1 4AE, United Kingdom;NN1 4AE;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02006843;;Tamper Sellers Wheel;149 Arundel St, Sheffield City Centre, Sheffield S1 2NU, United Kingdom;S1 2NU;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02002784;;Bean & Gone Coffee;Bootham Bar, York YO1 7HF, United Kingdom;YO1 7HF;Hospitality ;Coffee Related;Cash;Cash;Cash
+E02006494;;The Crown;25 Market Pl, Rugby CV21 3DU, United Kingdom;CV21 3DU;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02006494;;Nagra Supermarket;25-31 Norman Rd, Rugby CV21 1DP, United Kingdom;CV21 1DP;Consumer Goods;Supermarket;Cash;Cash;Cash
+E02002856;;The Clarendon;7-9 West Ave, Clarendon Park, Leicester LE2 1TS, United Kingdom;LE2 1TS;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02006129;;George & Bertie's tea/coffee shop Cannock;9, Market Hall Street, Cannock WS11 1EB, United Kingdom;WS11 1EB;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02003589;;ComiCoffee UK;59 Pyle St, Newport PO30 1UL, United Kingdom;PO30 1UL;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000979;;Buckingham Arms;62 Petty France, London SW1H 9EU, United Kingdom;SW1H 9EU;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000979;;Westminster Arms;9 & 10 Storey's Gate, London SW1P 3AT, United Kingdom;SW1P 3AT;Hospitality ;Pub;Cash, Debit Card, Credit Card;Contactless;Cash
+E02000979;;SimplyFresh St James's Park;Unit 1 St. James Park Tube Station, London , United Kingdom;SW1H 0BD;Consumer Goods;Supermarket;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000979;;Formative Coffee;4 Butler Pl, London SW1H 0RH, United Kingdom;SW1H 0RH;Hospitality ;Coffee Related;Debit Card, Credit Card;Contactless;Debit Card
+E02000367;;Climpson & Sons Café;67 Broadway Market, London E8 4PH, United Kingdom;E8 4PH;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000432;;The Faltering Fullback;19 Perth Rd, Finsbury Park, London N4 3HB, United Kingdom;N4 3HB;Hospitality ;Pub;Cash, Debit Card, Credit Card;Credit Card;Cash
+E02006740;;New England Country Store;51 Broad St, Worcester WR1 3LR, United Kingdom;WR1 3LR;Consumer Goods;Discount Store;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000808;;The Royal Oak;44 Tabard St, London SE1 4JU, United Kingdom;SE1 4JU;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000808;;The Founder's Arms;52 Hopton St, London SE1 9JH, United Kingdom;SE1 9JH;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000808;;Roasting Plant Coffee;4 Borough High St, London SE1 9QQ, United Kingdom;SE1 9QQ;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000808;;The Colombian Coffee Company;Arch 34, Flat Iron Square, 87 Southwark Bridge Rd, London SE1 0AB, United Kingdom;SE1 0AB;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Credit Card;Cash
+E02000584;;The Churchill Arms, Kensington;119 Kensington Church St, London W8 7LN, United Kingdom;W8 7LN;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Cash
+E02000584;;The Shed;122 Palace Gardens Terrace, London W8 4RT, United Kingdom;W8 4RT;Hospitality ;Restaurant (Both Dine-in and Takeaway);Cash, Debit Card, Credit Card;Debit Card;Cash
+E02000776;;GB Supermarket;225-227, 225 Ley St, Ilford IG1 4BL, United Kingdom;IG1 4BL;Consumer Goods;Supermarket;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02004976;;Viento Coffee Company;157 St Albans Rd, Watford WD24 4BD, United Kingdom;WD24 4BD;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000868;;The Beehive;305 Cambridge Heath Rd, London E2 9LH, United Kingdom;E2 9LH;Hospitality ;Coffee Related;Debit Card, Credit Card;Contactless;Debit Card
+E02000620;;Londis Albert Embankment;38-46 Albert Embankment, London , United Kingdom;SE1 7TJ;Consumer Goods;Supermarket;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000812;;BAR 31;Ground Floor, 31 St Thomas St, London SE1 9QU, United Kingdom;SE1 9QU;Hospitality ;Bar ;Cash, Debit Card, Credit Card;Debit Card;Cash
+E02000812;;G?NG;Level 52, Shangri-La The Shard, 31 St Thomas St, London SE1 9QU, United Kingdom;SE1 9QU;Hospitality ;Bar ;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000812;;Hej Coffee - Bermondsey;1 Bermondsey Sq, London SE1 3UN, United Kingdom;SE1 3UN;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000574;;Niche Gluten-free Dining;197-199 Rosebery Ave, London EC1R 4TJ, United Kingdom;EC1R 4TJ;Hospitality ;Restaurant (Dine-in);Cash, Debit Card, Credit Card;Credit Card;Cash
+E02000262;;The Kings Head Pub;214 High St, London W3 9NX, United Kingdom;W3 9NX;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02006801;;The Hole In The Wall;5 Mepham St, London SE1 8SQ, United Kingdom;SE1 8SQ;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Cash
+E02000864;;White Post. Pub & Bar;Building 4, 92 Schwartz Wharf, White Post Ln, London E9 5EN, United Kingdom;E9 5EN;Hospitality ;Bar ;Cash, Debit Card, Credit Card;Debit Card;Cash
+E02000864;;Two More Years;7 Roach Rd, Fish Island, London E3 2PA, United Kingdom;E3 2PA;Hospitality ;Bar ;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000864;;Silo London;Unit 7, The white building, 1st Floor,c/o CRATE Bar, Unit 7 Queen's Yard, London E9 5EN, United Kingdom;E9 5EN;Hospitality ;Restaurant (Dine-in);Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000575;;The Chocolate Cocktail Club;72 St John St, London EC1M 4DT, United Kingdom;EC1M 4DT;Hospitality ;Bar ;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000575;;The Holy Tavern;55 Britton St, London EC1M 5UQ, United Kingdom;EC1M 5UQ;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000575;;Look mum no hands!;49 Old St, London EC1V 9HX, United Kingdom;EC1V 9HX;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000575;;St. JOHN Restaurant;26 St John St, Barbican, London EC1M 4AY, United Kingdom;EC1M 4AY;Hospitality ;Restaurant (Dine-in);Cash, Debit Card, Credit Card;Credit Card;Credit Card
+E02000575;;Dans le Noir ? London Restaurant;69-73 St John St, London EC1M 4NJ, United Kingdom;EC1M 4NJ;Hospitality ;Restaurant (Dine-in);Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000370;;The Wenlock Arms;26 Wenlock Rd, London N1 7TA, United Kingdom;N1 7TA;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Cash
+E02000193;;The Atlantis Bookshop;49A Museum St, London , United Kingdom;WC1A 1LY;Consumer Goods;Specialest Store;Cash, Debit Card, Credit Card;Contactless;Debit Card
+E02000193;;Little Waitrose & Partners High Holborn;246 High Holborn, London , United Kingdom;WC1V 7EX;Consumer Goods;Supermarket;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000193;;Monmouth Coffee Company;27 Monmouth St, London WC2H 9EU, United Kingdom;WC2H 9EU;Hospitality ;Coffee Related;Cash;Cash;Cash
+E02000193;;EspressoBase Speciality coffee;St Georges Court, Bloomsbury Way, London WC1A 2SE, United Kingdom;WC1A 2SE;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000166;;Southampton Arms;139 Highgate Rd, London NW5 1LE, United Kingdom;NW5 1LE;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02006932;;Liverpool Arts Bar;22 Hope St, Liverpool L1 9BY, United Kingdom;L1 9BY;Hospitality ;Bar ;Cash, Debit Card, Credit Card;Contactless;Credit Card
+E02000364;;Ridley Road Market Bar;49 Ridley Rd, London E8 2NP, United Kingdom;E8 2NP;Hospitality ;Bar ;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000813;;The Mayflower Pub;117 Rotherhithe St, London SE16 4NF, United Kingdom;SE16 4NF;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02003517;;Pelicano Coffee Co.;28 Sydney St, Brighton BN1 4EP, United Kingdom;BN1 4EP;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02003517;;England at Home;59 Ship St, Brighton BN1 1AE, United Kingdom;BN1 1AE;Consumer Goods;Discount Store;Cash;Cash;Cash
+E02000869;;Well & Bucket;143 Bethnal Grn Rd, London E2 7DG, United Kingdom;E2 7DG;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Cash
+E02000876;;The Blind Beggar;337 Whitechapel Rd, London E1 1BU, United Kingdom;E1 1BU;Hospitality ;Pub;Cash;Cash;Cash
+E02000590;;Europafoodxb South Kensington;32 Thurloe Pl, South Kensington, London , United Kingdom;SW7 2HQ;Consumer Goods;Supermarket;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000872;;Blank Street Coffee;3 Redchurch St, London E2 7DJ, United Kingdom;E2 7DJ;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02003246;;New England Supermarket;609 Lincoln Rd, Peterborough PE1 3HA, United Kingdom;PE1 3HA;Consumer Goods;Supermarket;Cash, Debit Card, Credit Card;Contactless;Debit Card
+E02000576;;Ozone Coffee Roasters, Shoreditch;11 Leonard St, London EC2A 4AQ, United Kingdom;EC2A 4AQ;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Contactless;Debit Card
+E02006851;;The Distillery;27 Market St, Leicester LE1 6DN, United Kingdom;LE1 6DN;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Cash
+E02006851;;Lidl;Burton St, Leicester LE1 1TE, United Kingdom;LE1 1TE;Consumer Goods;Supermarket;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000192;;The Duke;7 Roger St, London WC1N 2PB, United Kingdom;WC1N 2PB;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000192;;The Lamb ;94 Lamb's Conduit St, London WC1N 1EA, United Kingdom;WC1N 1EA;Hospitality ;Pub;Cash;Cash;Cash
+E02000192;;Prufrock Coffee;23-25 Leather Ln, London EC1N 7TE, United Kingdom;EC1N 7TE;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Cash
+E02000878;;Nude Coffee Roasters;25 Hanbury St, London E1 6QR, United Kingdom;E1 6QR;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02001988;;Golden Cross;8 Hay Ln, Coventry CV1 5RF, United Kingdom;CV1 5RF;Hospitality ;Pub;Cash, Debit Card, Credit Card;Contactless;Debit Card
+E02001988;;Top Express;8 Shelton Square, Coventry CV1 1DG, United Kingdom;CV1 1DG;Consumer Goods;Supermarket;Cash, Debit Card, Credit Card;Cash;Debit Card
+E02000580;;The Ledbury;127 Ledbury Rd, London W11 2AQ, United Kingdom;W11 2AQ;Hospitality ;Restaurant (Dine-in);Cash, Debit Card, Credit Card;Debit Card;Cash
+E02003570;;Bring & Mix - Southampton;36 Upper Bannister St, Southampton SO15 2DG, United Kingdom;SO15 2DG;Hospitality ;Bar ;Cash, Debit Card, Credit Card;Contactless;Debit Card
+E02001063;;Hyatt Regency Manchester;55 Booth St W, Manchester M15 6PQ, United Kingdom;M15 6PQ;Hospitality ;Hotel;Cash, Debit Card, Credit Card;Contactless;Debit Card
+E02001632;;Frazer's Coffee Roasters;46-47 Wilson St, Neepsend, Sheffield S3 8DD, United Kingdom;S3 8DD;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Contactless;Debit Card
+E02002057;;Legends Cafe and Sports Bar;1-3, Unity Walk, Owen St, Tipton DY4 8EX, United Kingdom;DY4 8EX;Hospitality ;Bar ;Cash, Debit Card, Credit Card;Cash;Cash
+E02002143;;Johal Supermarket;19 W Bromwich Rd, Walsall WS1 3HS, United Kingdom;WS1 3HS;Consumer Goods;Supermarket;Cash, Debit Card, Credit Card;Contactless;Debit Card
+E02002139;;Coffee Republic;Sister Dora Buildings, CO-OP 1, The Bridge, Walsall WS1 1LW, United Kingdom;WS1 1LW;Hospitality ;Coffee Related;Cash;Cash;Cash
+E02002680;;The Whalebone;165 Wincolmlee, Hull HU2 0PA, United Kingdom;HU2 0PA;Hospitality ;Pub;Cash;Cash;Cash
+E02002168;;Cafe Royale;62 Victoria St, Mander Centre, Wolverhampton WV1 3NX, United Kingdom;WV1 3NX;Hospitality ;Coffee Related;Cash, Debit Card, Credit Card;Contactless;Debit Card
+E02001869;;Middle England;1 Devon St, Birmingham B7 4SL, United Kingdom;B7 4SL;Consumer Goods;Discount Store;Cash;Cash;Cash
+E02000189;;The Queens Head;66 Acton St, London WC1X 8DU, United Kingdom;WC1X 8DU;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Cash
+E02000190;;Judd Books;82 Marchmont St, London , United Kingdom;WC1N 1AG;Consumer Goods;Specialest Store;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000257;;Ealing Broadway;The Broadway, London , United Kingdom;W5 5JY;Consumer Goods;Specialest Store;Debit Card, Credit Card;Debit Card;Debit Card
+E02000371;;The Macbeth;70 Hoxton St, London N1 6LP, United Kingdom;N1 6LP;Hospitality ;Bar ;Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000371;;Lyle's;Tea Building, 56 Shoreditch High St, London E1 6GY, United Kingdom;E1 6GY;Hospitality ;Restaurant (Dine-in);Cash, Debit Card, Credit Card;Credit Card;Debit Card
+E02000371;;The Clove Club;Shoreditch Town Hall, 380 Old St, London EC1V 9LT, United Kingdom;EC1V 9LT;Hospitality ;Restaurant (Dine-in);Cash, Debit Card, Credit Card;Credit Card;Credit Card
+E02000809;;WatchHouse Bermondsey;199 Bermondsey St, London SE1 3UW, United Kingdom;SE1 3UW;Hospitality ;Coffee Related;Debit Card, Credit Card;Debit Card;Debit Card
+E02000809;;Restaurant Story;199 Tooley St, London SE1 2JX, United Kingdom;SE1 2JX;Hospitality ;Restaurant (Dine-in);Cash, Debit Card, Credit Card;Debit Card;Debit Card
+E02000809;;Butlers Wharf Chop House;36e Shad Thames, London SE1 2PJ, United Kingdom;SE1 2PJ;Hospitality ;Restaurant (Dine-in);Cash, Debit Card, Credit Card;Credit Card;Debit Card
+E02001178;;Premier Inn Manchester City Centre (Arena/Printworks) hotel;North Tower, Victoria Bridge St, Salford M3 5AS, United Kingdom;M3 5AS;Hospitality ;Hotel;Cash, Debit Card, Credit Card;Debit Card;Credit Card
+E02001733;;Free Trade Inn;Free Trade Inn, 12 St Lawrence Rd, Newcastle upon Tyne NE6 1AP, United Kingdom;NE6 1AP;Hospitality ;Pub;Cash, Debit Card, Credit Card;Debit Card;Debit Card
